@@ -5,6 +5,7 @@ def safeExtGet(prop, fallback) {
 apply plugin: 'com.android.library'
 
 android {
+    namespace 'io.sentry.react'
     compileSdkVersion safeExtGet('compileSdkVersion', 31)
 
     defaultConfig {
