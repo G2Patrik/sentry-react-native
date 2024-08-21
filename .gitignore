@@ -11,7 +11,6 @@ node_modules
 build/
 DerivedData
 dist
-ts3.8
 coverage
 
 ## Various settings
@@ -72,9 +71,8 @@ wheelhouse
 .yalc/
 yalc.lock
 
-# E2E tests
-test/react-native/versions
-node_modules.bak
-
-# Created by Sentry Metro Plugin
-.sentry/
+# Sample
+sample/.vscode/.react/index.bundle
+sample/.vscode/.react/index.map
+sample/.vscode/.react/debuggerWorker.js
+sample/xc-build
