@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Features
+
+- Bump CLI from v1.74.4 to v2.36.5 ([#21](https://github.com/G2Patrik/sentry-react-native/pull/21))
+  - [changelog](https://github.com/getsentry/sentry-cli/blob/master/CHANGELOG.md#2365)
+  - [diff](https://github.com/getsentry/sentry-cli/compare/1.74.4...2.36.5)
+
 ## 4.2.4
 
 ### Fixes
