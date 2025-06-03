@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Features
+
+- Bump Cocoa SDK from v7.23.0 to v8.51.1 ([#110](https://github.com/G2Patrik/sentry-react-native/pull/110))
+  - [changelog](https://github.com/getsentry/sentry-cocoa/blob/main/CHANGELOG.md#8511)
+  - [diff](https://github.com/getsentry/sentry-cocoa/compare/7.23.0...8.51.1)
+
 ## 4.2.4
 
 ### Fixes
