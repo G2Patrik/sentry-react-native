@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Features
+
+- Bump Android SDK from v6.3.1 to v8.16.0 ([#122](https://github.com/G2Patrik/sentry-react-native/pull/122))
+  - [changelog](https://github.com/getsentry/sentry-java/blob/main/CHANGELOG.md#8160)
+  - [diff](https://github.com/getsentry/sentry-java/compare/6.3.1...8.16.0)
+
 ## 4.2.4
 
 ### Fixes
