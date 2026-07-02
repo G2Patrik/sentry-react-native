@@ -1,5 +1,13 @@
 # Changelog
 
+## Unreleased
+
+### Features
+
+- Bump Wizard from v1.2.17 to v6.12.0 ([#218](https://github.com/G2Patrik/sentry-react-native/pull/218))
+  - [changelog](https://github.com/getsentry/sentry-wizard/blob/master/CHANGELOG.md#v6120)
+  - [diff](https://github.com/getsentry/sentry-wizard/compare/v1.2.17...v6.12.0)
+
 ## 4.2.4
 
 ### Fixes
